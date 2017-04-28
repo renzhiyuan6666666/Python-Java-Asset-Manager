@@ -1,5 +1,5 @@
 # Python资产管理练习项目，用于后期练手。
- ![image](http://s4.51cto.com/wyfs02/M02/89/2F/wKioL1gK_jSxA1n8AAD1q6VEeeg989.png)
+ ![image](http://s2.51cto.com/wyfs02/M00/89/31/wKiom1gLCP2zI7-BAAF5ux0hHxc814.png)
 
 # 运行环境
 
