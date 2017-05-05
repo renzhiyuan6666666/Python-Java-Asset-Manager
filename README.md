@@ -1,4 +1,7 @@
 # Python资产管理练习项目，用于后期练手。
+
+效果来自好友李振良
+
  ![image](http://s2.51cto.com/wyfs02/M00/89/31/wKiom1gLCP2zI7-BAAF5ux0hHxc814.png)
 
 # 运行环境
